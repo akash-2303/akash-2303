@@ -1,10 +1,11 @@
 ## Hi there 👋 I am Akash Balaji
-I am an aspiring Software Engineer with a recent interest in Web Scraping and analyzing data. 
-🔭 I’m currently working on collecting and analyzing political data to understand how perception among crowd changes. 
-I am also working as on building a parser for metadata tools to validate if the tool is according to standard.
-🌱 I’m currently learning AWS services and hope to get my associate developers certificate. 
+- I am an aspiring Software Engineer with a recent interest in Web Scraping and analyzing data. 
+- 🔭 I’m currently working on collecting and analyzing political data to understand how perception among crowd changes. 
+- I am also working as on building a parser for metadata tools to validate if the tool is according to standard.
+- 🌱 I’m currently learning AWS services and hope to get my associate developers certificate. 
 - 📫 How to reach me: **akubala23@gmail.com**
 - 😄 Pronouns: he/him
+- You can find me on leetcode <a href="https://leetcode.com/u/akubala/" target="_blank"> here</a>
 
 <!--
 **akash-2303/akash-2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
