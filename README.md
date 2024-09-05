@@ -4,6 +4,7 @@
 - I am also working as on building a parser for metadata tools to validate if the tool is according to standard.
 - 🌱 I’m currently learning AWS services and hope to get my associate developers certificate. 
 - 📫 How to reach me: **akubala23@gmail.com**
+- We can also connect on <a href="https://www.linkedin.com/in/akash-balaji-2658a89a/" target="_blank"> LinkedIN</a>
 - 😄 Pronouns: he/him
 - You can find me on leetcode <a href="https://leetcode.com/u/akubala/" target="_blank"> here</a>
 
