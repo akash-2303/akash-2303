@@ -5,6 +5,12 @@
 <h1 align="center">Vanakkam, I'm Akash Balaji</h1>
 <h3 align="center">Software Engineer: I break things then fix them.</h3>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash-2303" alt="akash-2303" />
+  </a> 
+</p>
+
 ### 👋 About Me
 
 * 🧑‍💻 I'm a software developer with a growing focus on **full-stack development**, and **data analytics**.
