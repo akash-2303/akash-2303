@@ -61,11 +61,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-## ❓ Other
-<p align="left">
-  <!-- Tethys Platform doesn't have an official SVG logo in CDNs. You may need to host a custom icon. Placeholder used below. -->
-  <a href="https://www.tethysplatform.org/" target="_blank"><img src="https://www.tethysplatform.org/images/tethys-icon.png" alt="tethys" width="40" height="40"/></a>
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-2303&show_icons=true&locale=en&layout=compact" alt="akash-2303" /></p>
