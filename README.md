@@ -2,14 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=akash-2303&label=Profile%20views&color=0e75b6&style=flat-square" alt="akash-2303" /> 
 </p>
 
-## Hi there 👋 I am Akash Balaji
-- I am an aspiring Software Engineer with a recent interest in Web Scraping and analyzing data. 
-- I am also working as on building a parser for metadata tools to validate if the tool is according to standard.
-- 🌱 I’m currently learning AWS services and hope to get my associate developers certificate. 
-- 📫 How to reach me: **akubala23@gmail.com**
-- We can also connect on <a href="https://www.linkedin.com/in/akash-balaji-2658a89a/" target="_blank"> LinkedIN</a>
-- 😄 Pronouns: he/him
-- You can find me on leetcode <a href="https://leetcode.com/u/akubala/" target="_blank"> here</a>
+### 👋 About Me
+
+* 🧑‍💻 I'm a software developer with a growing focus on **full-stack development**, and **data analytics**.
+* 🛠️ Recently completed a **parser for metadata validation** to ensure tools comply with defined standards.
+* ☁️ Currently diving deep into **AWS services**, working toward the **AWS Certified Developer – Associate** certification.
+* 📫 Reach me at: **[akubala23@gmail.com](mailto:akubala23@gmail.com)**
+* 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/akash-balaji-2658a89a/)
+* 🧠 Find me solving problems on [LeetCode](https://leetcode.com/u/akubala/)
+* 😄 Pronouns: **he/him**
 
 ## 🧠 Languages
 <p align="left">
