@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=akash-2303&label=Profile%20views&color=0e75b6&style=flat-square" alt="akash-2303" /> 
 </p>
 
+<h1 align="center">Hi 👋, I'm Akash Balaji</h1>
+<h3 align="center">Software Engineer: I break things then fix them.</h3>
+
 ### 👋 About Me
 
 * 🧑‍💻 I'm a software developer with a growing focus on **full-stack development**, and **data analytics**.
