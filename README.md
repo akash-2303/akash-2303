@@ -1,3 +1,7 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akash-2303&label=Profile%20views&color=0e75b6&style=flat-square" alt="akash-2303" /> 
+</p>
+
 ## Hi there 👋 I am Akash Balaji
 - I am an aspiring Software Engineer with a recent interest in Web Scraping and analyzing data. 
 - I am also working as on building a parser for metadata tools to validate if the tool is according to standard.
