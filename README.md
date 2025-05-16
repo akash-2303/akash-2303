@@ -11,6 +11,9 @@
   </a> 
 </p>
 
+### Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/akubala?theme=light&font=Karma&ext=contest)
+
 ### 👋 About Me
 
 * 🧑‍💻 I'm a software developer with a growing focus on **full-stack development**, and **data analytics**.
