@@ -11,9 +11,6 @@
   </a> 
 </p>
 
-### Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/akubala?theme=light&font=Karma&ext=contest)
-
 ### 👋 About Me
 
 * 🧑‍💻 I'm a software developer with a growing focus on **full-stack development**, and **data analytics**.
@@ -80,4 +77,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-2303&show_icons=true&locale=en" alt="akash-2303" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-2303&theme=default" alt="akash-2303" /></p>
+
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/akubala?theme=light&font=Karma&ext=contest)
 
