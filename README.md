@@ -79,5 +79,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-2303&theme=default" alt="akash-2303" /></p>
 
 ## Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/akubala?theme=light&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/akubala?theme=dark&font=JetBrains%20Mono&ext=contest)
+
 
