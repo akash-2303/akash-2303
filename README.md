@@ -32,20 +32,20 @@
 
 ## ⚙️ Frameworks & Libraries
 <p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
   <a href="https://gin-gonic.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/7898926?s=200&v=4" alt="gin" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
 </p>
 
 ## 🧪 Testing Tools
 <p align="left">
-  <a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pytest_logo.svg" alt="pytest" width="40" height="40"/></a>
   <a href="https://www.cypress.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/></a>
   <a href="https://vitest.dev/" target="_blank"><img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/></a>
+  <a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pytest_logo.svg" alt="pytest" width="40" height="40"/></a>
 </p>
 
 ## 🧰 Tools & DevOps
